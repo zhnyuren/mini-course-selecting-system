@@ -1,0 +1,6 @@
+Student name: zhangyuren    Date of birth: 1990-1-1
+Course: 
+
+    Course number: 1     Course name: Object-oriented          Course credit: 3   
+    Course number: 2     Course name: Data_Structure           Course credit: 4   
+    Course number: 9     Course name: Web_Analysis             Course credit: 1   

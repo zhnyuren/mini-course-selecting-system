@@ -1,0 +1,8 @@
+1 Object-oriented 3
+2 Data_Structure 4
+3 Liner_Algebra 2
+4 Physics 3
+5 Calculous2 4
+6 Physical_Education 1
+7 C++ 4
+8 Calculous1 4

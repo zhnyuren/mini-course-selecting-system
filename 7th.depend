@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1497274572 source:c:\flynnz\study\buaa_soft\freshman_2\oo_cpp\7th\7th\console.cpp
+	"Console.h"
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+
+1496500419 c:\flynnz\study\buaa_soft\freshman_2\oo_cpp\7th\7th\console.h
+	<string>
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"MyException.h"
+
+1497614477 c:\flynnz\study\buaa_soft\freshman_2\oo_cpp\7th\7th\student.h
+	"Date.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<string>
+	<iostream>
+	<typeinfo>
+	<cstring>
+	<iomanip>
+	<sstream>
+
+1496885962 c:\flynnz\study\buaa_soft\freshman_2\oo_cpp\7th\7th\date.h
+	<iostream>
+	"MyException.h"
+
+1496500209 c:\flynnz\study\buaa_soft\freshman_2\oo_cpp\7th\7th\myexception.h
+	<string>
+
+1497784329 c:\flynnz\study\buaa_soft\freshman_2\oo_cpp\7th\7th\course.h
+	<string>
+	<iostream>
+
+1496501000 c:\flynnz\study\buaa_soft\freshman_2\oo_cpp\7th\7th\obligatorycourse.h
+	<string>
+	"Course.h"
+
+1496500818 c:\flynnz\study\buaa_soft\freshman_2\oo_cpp\7th\7th\electivecourse.h
+	<string>
+	"Course.h"
+
+1497524621 source:c:\flynnz\study\buaa_soft\freshman_2\oo_cpp\7th\7th\course.cpp
+	"Course.h"
+	<string>
+	<iomanip>
+
+1497010646 source:c:\flynnz\study\buaa_soft\freshman_2\oo_cpp\7th\7th\electivecourse.cpp
+	"ElectiveCourse.h"
+	<string>
+	<iostream>
+
+1495981184 source:c:\flynnz\study\buaa_soft\freshman_2\oo_cpp\7th\7th\main.cpp
+	"Console.h"
+
+1496501000 source:c:\flynnz\study\buaa_soft\freshman_2\oo_cpp\7th\7th\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+	<string>
+	<iostream>
+
+1497014932 source:c:\flynnz\study\buaa_soft\freshman_2\oo_cpp\7th\7th\student.cpp
+	"Student.h"
+
+1496885843 source:c:\flynnz\study\buaa_soft\freshman_2\oo_cpp\7th\7th\date.cpp
+	"Date.h"
+	<iostream>
+
+1496500209 source:c:\flynnz\study\buaa_soft\freshman_2\oo_cpp\7th\7th\myexception.cpp
+	"MyException.h"
+
